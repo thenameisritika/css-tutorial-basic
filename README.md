@@ -18,6 +18,7 @@ p {
     color: gold;
     background-color: black;
 }
+```
 
 ### 3. `selectors.html`
 This file demonstrates different types of CSS selectors:
