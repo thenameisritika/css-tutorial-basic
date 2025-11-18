@@ -19,7 +19,7 @@ p {
     background-color: black;
 }
 
-## 3. selectors.html
+### 3. selectors.html
 This file demonstrates different types of CSS selectors:
 - Element selector  
 - ID selector  
