@@ -1,4 +1,4 @@
-# CSS Tutorial – Paragraph Styling Demo
+# CSS Tutorial 
 
 This project demonstrates how **inline**, **internal**, and **external** CSS work together and how CSS priority affects the final styling on a webpage.
 
@@ -19,7 +19,7 @@ p {
     background-color: black;
 }
 
-### 3. selectors.html
+### 3. `selectors.html`
 This file demonstrates different types of CSS selectors:
 - Element selector  
 - ID selector  
