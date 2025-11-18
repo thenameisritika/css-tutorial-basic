@@ -1,6 +1,6 @@
 # CSS Tutorial 
 
-This project demonstrates how **inline**, **internal**, and **external** CSS work together and how CSS priority affects the final styling on a webpage.
+This repository contains multiple practice files demonstrating core HTML & CSS concepts.
 
 ## 📄 Project Files
 
